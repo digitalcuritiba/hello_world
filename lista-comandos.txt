@@ -1,0 +1,3 @@
+C:\Users\rolf.0904\StudioProjects\hello_world
+cd C:\Users\rolf.0904\StudioProjects\hello_world
+doskey /history > lista-comandos.txt
